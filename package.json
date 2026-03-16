@@ -14,10 +14,10 @@
     "react-scripts": "^5.0.1",
     "react-type-animation": "^3.2.0"
   },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build"
-  },
+ "scripts": {
+  "start": "react-scripts start",
+  "build": "CI=false react-scripts build"
+},
   "browserslist": {
     "production": [
       ">0.2%",
