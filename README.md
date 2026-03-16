@@ -1,4 +1,4 @@
-# 🚀 Alex Morgan — Portfolio Website
+# 🚀 Anjali Aggarwal — Portfolio Website
 
 A premium, futuristic portfolio built with React.js, Tailwind CSS, and modern web technologies.
 
